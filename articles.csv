@@ -1,0 +1,12 @@
+article_id,source,language,published_at,content
+a1,techcrunch,en,2024-01-01T09:15:00Z,"OpenAI releases a new GPT model focused on enterprise use cases."
+a2,techcrunch,en,2024-01-02T11:30:00Z,"Amazon announces new AWS Lambda features improving cold start performance."
+a3,lemonde,fr,2024-01-02T14:45:00Z,"La Commission européenne discute de nouvelles régulations sur l'intelligence artificielle."
+a4,bbc,en,2024-01-03T08:10:00Z,"The UK government invests heavily in AI research and cloud infrastructure."
+a5,bbc,en,2024-01-03T17:20:00Z,"Climate change discussions continue at the global economic forum."
+a6,heise,de,2024-01-04T10:00:00Z,"Amazon Web Services erweitert sein Angebot im Bereich Cloud Computing."
+a7,techcrunch,en,2024-01-04T12:00:00Z,"Startups explore new approaches to large language models and AI agents."
+a8,lemonde,fr,2024-01-05T09:30:00Z,"Les startups européennes investissent davantage dans le cloud et l'IA."
+a9,bbc,en,2024-01-06T18:00:00Z,"A retrospective on technology trends of the past decade."
+a10,techcrunch,en,2024-01-07T07:50:00Z,"AWS and OpenAI expand their partnership to accelerate AI innovation."
+a11,ftv,fr,2024-01-08T10:00:00Z,"Les etats-unis investissent dans la recherche sur la medecine."

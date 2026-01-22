@@ -1,0 +1,18 @@
+[
+  {
+    "topic_id": "ai",
+    "keywords": ["ai", "artificial intelligence", "gpt", "language model", "openai"]
+  },
+  {
+    "topic_id": "cloud",
+    "keywords": ["cloud", "aws", "amazon web services", "lambda", "infrastructure"]
+  },
+  {
+    "topic_id": "startups",
+    "keywords": ["startup", "startups", "founder", "venture"]
+  },
+  {
+    "topic_id": "regulation",
+    "keywords": ["regulation", "regulations", "government", "commission", "law"]
+  }
+]

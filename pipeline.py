@@ -1,10 +1,10 @@
 from src.enrichment import build_article_topics
-from src.readers import read_source
+from src.readers import read_articles, read_topics
 
 
 def run_pipeline(articles_path, topics_path, output_dir):
-    articles = read_source(articles_path)
-    topics = read_source(topics_path)
+    articles = read_articles(articles_path)
+    topics = read_topics(topics_path)
     article_topics = build_article_topics(articles, topics)
 
     output_dir = str(output_dir).rstrip("/")
